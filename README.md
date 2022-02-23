@@ -7,6 +7,6 @@ Core repository that'll facilitate management of issues, design discussions etc.
 Create a issue yourself and complete the following tasks:
 
 -   [ ] Fork
--   [ ] Commit a file as contributing/**username**.md
+-   [ ] Commit a file as contributions/**username**.md
 -   [ ] Create a pull request from your forked repository to the original.
 -   [ ] Mention the owner to close the PR.
